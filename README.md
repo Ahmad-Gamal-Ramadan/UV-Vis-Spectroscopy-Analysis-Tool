@@ -43,3 +43,6 @@ Data smoothing and fitting
 
 Support for multiple datasets
 
+Example 
+--
+![image alt](https://github.com/Ahmad-Gamal-Ramadan/UV-Vis-Spectroscopy-Analysis-Tool-GUI/blob/main/images/Uv-Vis%20example.PNG?raw=true)
